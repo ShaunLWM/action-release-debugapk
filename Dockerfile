@@ -1,4 +1,4 @@
-FROM alphine:latest
+FROM ubuntu:18.04
 
 LABEL "version"="0.0.1"
 LABEL "com.github.actions.name"="Debug APK Publisher"
