@@ -37,7 +37,7 @@ You'll need to provide this secret token to use the action (for publishing the A
 
 * **TOKEN**: Create a new [access token](https://github.com/settings/tokens) with `repo` access.
 
-I am unsure as to why using the default `GITHUB_TOKEN` provided universally will fail to authorize the user. This is the only workaround that I have found.
+I am unsure as to why using the default `GITHUB_TOKEN` provided universally will fail to authorize the user. This is the only workaround that I'd found.
 
 ### Environment Variables
 
