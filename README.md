@@ -1,7 +1,10 @@
 # action-release-debugapk
+
+![screenshot](screenshot.png)
+
 🕷 Build and release debug APK from your Android project
 
-## Warning
+## Warning ⚠
 Add a target branch (eg. master) to build the APK to prevent infinite loop (releasing the APK on the release tag will trigger a rerun of the action).
 
 ## Usage
