@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM debian:10.1
 
 LABEL "version"="0.0.2"
 LABEL "com.github.actions.name"="Debug APK Publisher"
