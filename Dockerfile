@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL "version"="0.0.1"
+LABEL "version"="0.0.2"
 LABEL "com.github.actions.name"="Debug APK Publisher"
 LABEL "com.github.actions.description"="Build & Publish Debug APK on Github"
 LABEL "com.github.actions.icon"="package"
